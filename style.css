@@ -185,4 +185,10 @@ footer  .second ul {
     .ip p{
         padding:10px;
     }
+    .header img{
+        max-width:200px;
+    }
+    form{
+        max-width:100px;
+    }
 }
