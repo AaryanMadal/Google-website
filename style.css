@@ -55,7 +55,7 @@ a:hover{
 .header img{
     justify-self: center;
     align-self: center;
-    max-width:200px;
+    max-width:100px;
 }
 .search{
     display: flex;
