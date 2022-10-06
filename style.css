@@ -188,7 +188,10 @@ footer  .second ul {
     .header img{
         max-width:200px;
     }
-    form{
-        max-width:100px;
+     form{
+        min-width: 300px;
+    }
+    form input{
+        width:210px;
     }
 }
